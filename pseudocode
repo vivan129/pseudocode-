@@ -1,0 +1,19 @@
+START
+
+SET secret number to a random number between 1 and 10
+SET guess to 0
+
+WHILE guess is not equal to secret number
+    ASK user to enter a guess
+    STORE input as guess
+
+    IF guess is greater than secret number
+        DISPLAY "Too high"
+    ELSE IF guess is less than secret number
+        DISPLAY "Too low"
+    ELSE
+        DISPLAY "Correct! You guessed the number"
+    END IF
+END WHILE
+
+END
