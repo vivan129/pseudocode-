@@ -7,6 +7,7 @@ Notes/documentation project containing reference material and artifacts.
 - `pseudocode`
 - `CONTRIBUTING.md`
 - `README.md`
+- `docs/PROJECT_CONTEXT.md`
 - `QUICKSTART.md`
 - `python`
 - `LICENSE`
